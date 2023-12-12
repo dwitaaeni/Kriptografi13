@@ -53,3 +53,5 @@ Menampilkan hasil enkripsi ECB dalam format heksadesimal.
 
 ### Output
 ![IMG 1](https://github.com/dwitaaeni/Kriptografi13/blob/main/hasil.png)
+
+### Terimakasih
